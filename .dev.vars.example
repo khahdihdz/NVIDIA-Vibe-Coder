@@ -1,0 +1,5 @@
+TELEGRAM_BOT_TOKEN=replace_me
+NVIDIA_API_KEY=replace_me
+WEBHOOK_SECRET=replace_with_long_random_secret
+ADMIN_IDS=
+GITHUB_TOKEN=
