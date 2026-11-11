@@ -1,0 +1,12 @@
+name = "nvidia-vibe-coder"
+main = "src/index.ts"
+compatibility_date = "2026-11-11"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "SESSIONS"
+id = "REPLACE_WITH_KV_NAMESPACE_ID"
+
+[vars]
+NVIDIA_MODEL = "meta/llama-3.3-70b-instruct"
+NVIDIA_BASE_URL = "https://integrate.api.nvidia.com/v1"
